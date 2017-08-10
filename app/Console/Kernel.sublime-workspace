@@ -1,0 +1,913 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"git",
+				"git_passwd"
+			],
+			[
+				"pro",
+				"proyectos"
+			],
+			[
+				"ga",
+				"gallery_01"
+			],
+			[
+				"mon",
+				"mongoose〔variable〕"
+			],
+			[
+				"use",
+				"user_schema"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"rende",
+				"render_view〔variable〕"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"para",
+				"parametros〔variable〕"
+			],
+			[
+				"param",
+				"parametros〔variable〕"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"RO",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"Rou",
+				"Route::group\tCreate a Group of Routes"
+			],
+			[
+				"Route",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"sty",
+				"style\tTag"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"C",
+				"Countries"
+			],
+			[
+				"b",
+				"b\t<b>"
+			],
+			[
+				"function",
+				"apd_dump_function_table"
+			],
+			[
+				"per",
+				"persona1"
+			],
+			[
+				"reto",
+				"retornarNombre"
+			],
+			[
+				"imprimi",
+				"imprimirSueldo"
+			],
+			[
+				"car",
+				"cargarSueldo"
+			],
+			[
+				"varl",
+				"valorHora"
+			],
+			[
+				"hot",
+				"horaT"
+			],
+			[
+				"hota",
+				"horasTrabajadas"
+			],
+			[
+				"calc",
+				"calculoTotal"
+			],
+			[
+				"cal",
+				"calculoTotal"
+			],
+			[
+				"impr",
+				"imprimirSueldo"
+			],
+			[
+				"em",
+				"empleado1"
+			],
+			[
+				"valo",
+				"valorHora"
+			],
+			[
+				"hora",
+				"horasTrabajadas"
+			],
+			[
+				"Pe",
+				"Personas"
+			],
+			[
+				"carg",
+				"cargarDatosPersona"
+			],
+			[
+				"suel",
+				"suel"
+			],
+			[
+				"cantidad",
+				"cantidadFilas"
+			],
+			[
+				"cantida",
+				"cantidadFilas"
+			],
+			[
+				"cFondo",
+				"cFondo"
+			],
+			[
+				"mos",
+				"mostrarHorizontal"
+			],
+			[
+				"inicio",
+				"inicioFila"
+			],
+			[
+				"canti",
+				"cantidadFilas"
+			],
+			[
+				"color",
+				"colorFondo"
+			],
+			[
+				"ali",
+				"alineado"
+			],
+			[
+				"cabe",
+				"cabecera"
+			],
+			[
+				"ta",
+				"tabla1"
+			],
+			[
+				"colo",
+				"colorFuente"
+			],
+			[
+				"mostrar",
+				"mostrarVertical"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"me",
+				"menu\t<menu>"
+			],
+			[
+				"title",
+				"title\t<title>"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"gua",
+				"guardia"
+			],
+			[
+				"ad",
+				"adjudicacion"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"leg",
+				"legend\tTag"
+			],
+			[
+				"O",
+				"Ordens"
+			],
+			[
+				"col",
+				"colspan\tAttr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"buton",
+				"button\t<button>"
+			],
+			[
+				"su",
+				"sub_total"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"co",
+				"colspan\tAttr"
+			],
+			[
+				"orden",
+				"orden_items"
+			],
+			[
+				"produc",
+				"producto_id"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fond",
+				"font-size-adjust"
+			],
+			[
+				"Date",
+				"date_time_set"
+			],
+			[
+				"P",
+				"Proveedor"
+			],
+			[
+				"id",
+				"id_total_ordenes"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"Orden",
+				"OrdenItems"
+			],
+			[
+				"ite",
+				"items"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"cod",
+				"codigo"
+			],
+			[
+				"eve",
+				"eventos"
+			],
+			[
+				"Ed",
+				"editRIF"
+			],
+			[
+				"ar",
+				"archivo"
+			],
+			[
+				"sh",
+				"shell_exec"
+			],
+			[
+				"nombre",
+				"nombreTmpArchivo"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Colo",
+				"Color Picker"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKAGE IN",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 970.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jramirez/Documentos/doc/CV-Yossi_Loyo-24082017.html",
+		"/home/jramirez/Documentos/doc/CV-Yossi_Loyo.html",
+		"/home/jramirez/Descargas/Telegram Desktop/hosts",
+		"/var/www/html/scripts/zipfe.sh",
+		"/var/www/html/strr/wp-content/themes/brooklyn/footer.php",
+		"/var/www/html/strr/wp-content/themes/brooklyn/header.php",
+		"/var/www/html/strr/wp-content/languages/es_MX.po",
+		"/var/www/html/strr/wp-admin/js/press-this.js",
+		"/home/jramirez/Imágenes/My resume _ Uptowork.html",
+		"/var/www/html/strr/wp-content/themes/brooklyn/style.css",
+		"/var/www/html/strr/wp-content/themes/brooklyn/functions.php",
+		"/var/www/html/strr/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css",
+		"/var/www/html/strr/wp-content/themes/brooklyn/unite/core/admin/unite-header-manager.class.php",
+		"/var/www/html/strr/wp-content/themes/brooklyn/index.php",
+		"/var/www/html/strr/wp-content/themes/brooklyn/front-page.php",
+		"/var/www/html/zoom/demo.html",
+		"/var/www/html/public_html/ABCPeru/enlaces/conexion.php",
+		"/var/www/html/public_html/ABCPeru/enlaces/cadenas.php",
+		"/var/www/html/public_html/ABCPeru/inmuebles.php",
+		"/var/www/html/public_html/ABCPeru/inmuebles_view.php",
+		"/var/www/html/public_html/ABCPeru/enlaces/cadenas.php~",
+		"/var/www/html/peru/ABCPeru/inmuebles.php",
+		"/var/www/html/peru/usuario.php",
+		"/var/www/html/peru/ABCPeru/enlaces/cadenas.php",
+		"/var/www/html/peru/ABCPeru/enlaces/cadenas.php~",
+		"/var/www/html/peru/inmuebles.php",
+		"/var/www/html/peru/ABCPeru/enlaces/conexion.php",
+		"/var/www/html/peru/enlaces/conexion.php",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/script/Dockerfile-test",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/script/msg_tg.sh",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/script/error.sh",
+		"/home/jramirez/Documentos/accseso",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/zipfe.sh",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/script/generar_docker.sh",
+		"/var/www/html/fecol5/app/Modules/Customers/Controllers/CustomersController.php",
+		"/var/www/html/fecol5/app/Modules/Customers/Models/Customer.php",
+		"/var/www/html/fecol5/app/Models/User.php",
+		"/home/jramirez/Descargas/jquery-steps-master/demo/index.html",
+		"/home/jramirez/Documentos/sqldbeaver/testttt/routes_201704290847.sql",
+		"/var/www/html/fecol5/.env",
+		"/home/jramirez/Documentos/sqldbeaver/ssss/routes_201704271904.sql",
+		"/home/jramirez/Documentos/sqldbeaver/ssss/permissions_201704271904.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/application_user_201704261437.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/authorized_invoice_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_account_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_application_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_city_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_configuration_enterprise_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_country_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_credit_note_reason_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_debit_note_reason_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_department_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_document_code_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_document_type_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_error_code_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_identification_type_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_income_term_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_mode_sequential_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_municipality_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_payment_method_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_payment_status_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_product_type_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_regime_type_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_retentions_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_tax_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_taxpayer_type_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_tax_type_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/customer_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/enterprise_application_user_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/enterprise_configurations_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/folios_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/folio_status_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/invoice_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/invoice_billing_reference_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/invoice_discrepancy_response_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/invoice_line_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/invoice_line_tax_total_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/invoice_line_tax_subtotal_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/invoice_notes_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/invoice_tax_total_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/measure_unit_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/menu_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/password_reminders_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/password_resets_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/permission_role_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/permissions_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/permission_user_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/products_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/roles_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/role_user_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/routes_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/submenu_201704261439.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/subsidiaries_201704261440.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/user_customer_201704261440.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/user_menus_201704261440.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/enterprise_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/user_subsidiary_201704261440.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_currency_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/cat_configuration_user_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/application_user_configurations_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/application_user2_201704261438.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/BD-test-COLOMBIA/activity_log_201704261437.sql",
+		"/home/jramirez/Documentos/BD-test-COLOMBIA/ColombiaDB-squema.sql",
+		"/home/jramirez/Documentos/Doc-FE-Colombia/colombiaDB_esquema.sql",
+		"/home/jramirez/Documentos/sqldbeaver/testttt/customer_201704211501.sql",
+		"/home/jramirez/Documentos/sqldbeaver/testttt/enterprise_application_user_201704211520.sql",
+		"/home/jramirez/Documentos/sqldbeaver/testttt/permission_role_201704172012.sql",
+		"/home/jramirez/Documentos/sqldbeaver/testttt/permission_user_201704172017.sql",
+		"/home/jramirez/Documentos/sqldbeaver/testttt/permissions_201704172018.sql",
+		"/var/www/html/practica/utilitario.php",
+		"/home/jramirez/Documentos/sqldbeaver/invoice_tax_total_201704102024.sql",
+		"/home/jramirez/Documentos/sqldbeaver/invoice_line_tax_total_201704101924.sql",
+		"/home/jramirez/Documentos/sqldbeaver/invoice_line_tax_subtotal_201704101918.sql",
+		"/home/jramirez/Documentos/sqldbeaver/invoice_line_201704092220.sql",
+		"/home/jramirez/Documentos/sqldbeaver/invoice_billing_reference_201704092209.sql",
+		"/home/jramirez/Documentos/sqldbeaver/invoice_discrepancy_response_201704092217.sql",
+		"/home/jramirez/Documentos/sqldbeaver/invoice_201704092029.sql",
+		"/home/jramirez/Documentos/sqldbeaver/invoice_201704092153.sql",
+		"/home/jramirez/Documentos/sqldbeaver/folios_201704092024.sql",
+		"/home/jramirez/Documentos/sqldbeaver/application_user_201704092002.sql",
+		"/var/www/html/prueba/miconf.json",
+		"/var/www/html/practicanodejs/express/app.js",
+		"/var/www/html/practicanodejs/proyecto/views/index.pug",
+		"/var/www/html/practicanodejs/proyecto/views/login.pug",
+		"/var/www/html/practicanodejs/proyecto/views/layout.pug",
+		"/var/www/html/practicanodejs/proyecto/models/user.js",
+		"/var/www/html/practicanodejs/proyecto/app.js",
+		"/var/www/html/practicanodejs/routing/app.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"<project>",
+			"/var/www/html/strr",
+			"<project>",
+			"/var/www/html",
+			"/var/www/html/strr",
+			"<project>",
+			"/var/www/html/strr",
+			"/var/www/html/yii-1.1.17",
+			"/var/www/html/yiibasic"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"l-content__in",
+			"creatorContent",
+			"Recoleta",
+			"RecoletaRecoleta",
+			"id=\"contact-section\"",
+			"contact-section",
+			"LinkedIn",
+			"<div class=\"entry personalLinkedin entryExample\" data-order=\"202\">\n                                                <div class=\"pointer\"></div>\n                                                <div class=\"ico\"></div>\n                                                <h4 class=\"personalTitle\">LinkedIn</h4>\n                                                <div class=\"personalText\"><a href=\"https://ve.linkedin.com/in/yossi-loyo-a9689357\" target=\"_blank\" rel=\"nofollow\">https://ve.linkedin.com/in/yossi-loyo-a9689357</a></div>\n                                             </div>",
+			"yossi",
+			"linken",
+			"%2$s",
+			"footer-content",
+			"copyright",
+			"united",
+			"UNITED THEMES",
+			" UNITED THEMES",
+			"POWERED",
+			"POWERED BY UNITED THEMES",
+			"powered",
+			"POWERED BY UNITED THEMES",
+			"powered",
+			"POWERED BY UNITED THEMES",
+			"general",
+			"maxcdn",
+			"font",
+			"FontAwesome",
+			"font",
+			"awesome",
+			"for",
+			"class",
+			"src",
+			"large",
+			"thumb",
+			"small",
+			"src=\"small",
+			" src=\"small",
+			"src=\"",
+			"$PROGRAM -k $SERVER_PUBKEY $CONFIG_ARGUMENT -W <<EOF\nmsg $RECIPIENT $MESSAGE\nsafe_quit\nEOF",
+			"pub",
+			"');\n",
+			".000000'}",
+			"{ts '",
+			"(id,",
+			"id,",
+			"id",
+			".000000'}",
+			"{ts '",
+			"id",
+			"id,",
+			".000000'}",
+			"{ts '",
+			".000000'}",
+			"{ts '",
+			".000000'}",
+			"{ts '",
+			".000000'}",
+			"{ts '",
+			".000000'}",
+			"{ts '",
+			".433000'}",
+			".437000'}",
+			".177000'}",
+			".173000'}",
+			".170000'}",
+			".167000'}",
+			".163000'}",
+			".160000'}",
+			".157000'}",
+			".153000'}",
+			".150000'}",
+			".147000'}",
+			".143000'}",
+			".140000'}",
+			".137000'}",
+			".133000'}",
+			".130000'}",
+			".127000'}",
+			".123000'}",
+			".120000'}",
+			".117000'}",
+			".113000'}",
+			".110000'}",
+			".107000'}",
+			".103000'}",
+			"}",
+			".100000'}",
+			".097000'}",
+			".093000'}",
+			".090000'}",
+			".087000'}",
+			".083000'}",
+			".080000'}",
+			".077000'}",
+			".073000'}",
+			".070000'}",
+			".067000'}",
+			".063000'}",
+			".060000'}",
+			".057000'}",
+			".053000'}",
+			".050000'}",
+			".047000'}",
+			".043000'}",
+			".040000'}",
+			".037000'}",
+			".033000'}",
+			".030000'}",
+			".027000'}",
+			".023000'}",
+			".020000'}",
+			".017000'}",
+			".013000'}",
+			".010000'}",
+			".007000'}",
+			".003000'},",
+			"}",
+			".000000'}",
+			"{ts '",
+			".000000'}",
+			"{ts '",
+			".000000'}",
+			"{ts '",
+			".000000'}",
+			"{ts '",
+			".000000'}",
+			"{ts '",
+			".000000'}",
+			"{ts '"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'",
+			"",
+			"'",
+			"",
+			"'",
+			"",
+			"'",
+			"",
+			"'",
+			"",
+			"'",
+			"",
+			"NO ACTION",
+			"'",
+			"",
+			"'",
+			"",
+			"'",
+			"",
+			"'",
+			"",
+			"'",
+			"",
+			"$e->getMessage()",
+			",",
+			"",
+			"'",
+			"",
+			"'",
+			"&#62;",
+			"&#60;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Kernel.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index.ht",
+				"angle/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
